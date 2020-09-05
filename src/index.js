@@ -9,7 +9,6 @@ console.log(currentTime);
 const colorStyle = {
   color: "black"
 };
-
 if (currentTime < 12) {
   greeting = "Good Morning";
   colorStyle.color = "red";
